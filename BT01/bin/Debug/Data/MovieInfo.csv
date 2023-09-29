@@ -1,0 +1,31 @@
+ID,name,year,poster,trailer,status,director,nation,duration,gernes,view,like,star,decrip
+0,Cậu Vàng - The Old Man's Dog,2021,Data\Image\1.jpg,Data\Video\1.mp4,HD Vietsub - Thuyết minh,Trần Vũ Thủy,Việt Nam,1 h 36 m,Chính kịch,1,2,3,Data\Description\1.txt
+1,Chiến Binh Báo Đen 2: Wakanda Bất Diệt - Black Panther: Wakanda Forever,2022,Data\Image\2.jpg,Data\Video\2.mp4,HD Vietsub - Thuyết minh,Ryan Coogler,Mỹ,2 h 41 m,Hành động/Phiêu lưu,1,2,5,Data\Description\2.txt
+2,Dân Chơi Không Sợ Con Rơi - My Father is a Playboy,2022,Data\Image\3.jpg,Data\Video\3.mp4,HD Vietsub - Thuyết minh,Huỳnh Đông,Việt Nam,1 h 28 m,Hài hước,1,2,4,Data\Description\3.txt
+3,Siêu Anh Hùng: Black Adam - Black Adam,2022,Data\Image\4.jpg,Data\Video\4.mp4,HD Vietsub - Thuyết minh,Jaume Collet-Serra,Mỹ,2 h 5 m,Hành động/Phiêu lưu,1,2,4,Data\Description\4.txt
+4,Hạ Cánh Khẩn Cấp - Emergency Declaration,2022,Data\Image\5.jpg,Data\Video\5.mp4,HD Vietsub - Thuyết minh,Han Jae-rim,Hàn Quốc,2 h 21 m,Giật gân/Hành động,1,2,5,Data\Description\5.txt
+5,Em Và Trịnh - Em Va Trinh,2022,Data\Image\6.jpg,Data\Video\6.mp4,HD Vietsub - Thuyết minh,Phan Gia Nhật Linh,Việt Nam,2 h 16 m,Chính kịch/Lãng mạn,1,2,3,Data\Description\6.txt
+6,Maika - Cô Bé Đến Từ Hành Tinh Khác - Maika: The Girl,2022,Data\Image\7.jpg,Data\Video\7.mp4,HD Vietsub - Thuyết minh,Trần Hàm - Nguyễn Phan Quang Bình,Việt Nam,1 h 45 m,Phiêu lưu,1,2,4,Data\Description\7.txt
+7,Thế Giới Khủng Long: Lãnh Địa - Jurassic World: Dominion,2022,Data\Image\8.jpg,Data\Video\8.mp4,HD Vietsub - Thuyết minh,Colin Trevorrow,Mỹ,2 h 27 m,Hành động/Kỳ ảo,1,2,4,Data\Description\8.txt
+8,Bố Già - The Father,2021,Data\Image\9.jpg,Data\Video\9.mp4,HD Vietsub - Thuyết minh,Trấn Thành - Vũ Ngọc Đãng,Việt Nam,2 h 8 m,Chính kịch/Hài hước,1,2,4,Data\Description\9.txt
+9,Trạng Quỳnh - Quynh,2019,Data\Image\10.jpg,Data\Video\10.mp4,HD Vietsub - Thuyết minh,Đức Thịnh,Việt Nam,1 h 34 m,Lịch sử/Hài hước,1,2,4,Data\Description\10.txt
+10,Bằng Chứng Vô Hình - Invisible Evidence,2020,Data\Image\11.jpg,Data\Video\11.mp4,HD Vietsub - Thuyết minh,Trịnh Bình Lê Minh,Việt Nam,1 h 40 m,Giật gân/Tội phạm,1,2,3,Data\Description\11.txt
+11,Kỳ Nghỉ Lễ Vàng (Kỳ Nghỉ Nhớ Đời) - The Golden Holiday,2020,Data\Image\12.jpg,Data\Video\12.mp4,HD Vietsub - Thuyết minh,Bong-han Kim,Hàn Quốc,1 h 46 m,Tội phạm/Hài hước,1,2,4,Data\Description\12.txt
+12,Kẻ Săn Mộ - Collectors,2020,Data\Image\13.jpg,Data\Video\13.mp4,HD Vietsub - Thuyết minh,Park JungBae,Hàn Quốc,1 h 55 m,Tội phạm/Hài hước,1,2,4,Data\Description\13.txt
+13,Thành Phố Mất Tích - The Lost City,2022,Data\Image\14.jpg,Data\Video\14.mp4,HD Vietsub - Thuyết minh,Aaron Nee - Adam Nee,Mỹ,1 h 52 m,Lãng mạn/Phiêu lưu,1,2,5,Data\Description\14.txt
+14,Sắc Đẹp Dối Trá - The Drama Queen,2020,Data\Image\15.jpg,Data\Video\15.mp4,HD Vietsub - Thuyết minh,Kay Nguyễn,Việt Nam,1 h 30 m,Tình cảm/Hài hước,1,2,3,Data\Description\15.txt
+15,Nhiệm Vụ Tối Mật 2: Đặc Vụ Xuyên Quốc Gia - Confidential Assignment 2: International,2022,Data\Image\16.jpg,Data\Video\16.mp4,HD Vietsub - Thuyết minh,Lee Seok-hoon,Hàn Quốc,2 h 9 m,Hành động/Hài hước,1,2,5,Data\Description\16.txt
+16,Bà Tôi Là Công Chúa - Oh! My Gran,2020,Data\Image\17.jpg,Data\Video\17.mp4,HD Vietsub - Thuyết minh,Leong Se-Gyo,Hàn Quốc,1 h 49 m,Chính khách/Hài hước,1,2,5,Data\Description\17.txt
+17,Quá Khứ Đông Sơn - Tongshan Past Without Darkness Under The Lamp,2022,Data\Image\18.jpg,Data\Video\18.mp4,HD Vietsub - Thuyết minh,Wang Yiqiu,Trung Quốc,1 h 11 m,Hài hước,1,2,2,Data\Description\18.txt
+18,Hoa Mộc Lan - Mulan,2020,Data\Image\19.jpg,Data\Video\19.mp4,HD Vietsub - Thuyết minh,Niki Caro,Trung Quốc,1 h 55 m,Hành động/Kỳ ảo,1,2,4,Data\Description\19.txt
+19,Bẫy Ngọt Ngào - Sweet Trap,2022,Data\Image\20.jpg,Data\Video\20.mp4,HD Vietsub - Thuyết minh,Đinh Hà Uyên Thư,Việt Nam,1 h 30 m,Chính kịch,1,2,3,Data\Description\20.txt
+20,Eternals: Chủng Tộc Bất Tử - Eternals,2021,Data\Image\21.jpg,Data\Video\21.mp4,HD Vietsub - Thuyết minh,Chlóe Zhao,Mỹ,2 h 37 m,Hành động/Kỳ ảo,1,2,4,Data\Description\21.txt
+21,Phù Thủy Tối Thượng 2: Trong Đa Vũ Trụ Hỗn Loạn - Doctor Strange in The Multiverse Of Madness,2022,Data\Image\22.jpg,Data\Video\22.mp4,HD Vietsub - Thuyết minh,Sam Raimi,Mỹ,2 h 6 m,Hành động/Phiêu lưu,1,2,5,Data\Description\22.txt
+22,Người Nhện: Không Còn Nhà - Spider-Man: No Way Home,2021,Data\Image\23.jpg,Data\Video\23.mp4,HD Vietsub - Thuyết minh,John Watts,Mỹ,2 h 28 m,Hành động/Phiêu lưu,1,2,5,Data\Description\23.txt
+23,Diệp Vấn 1 - Ip Man 1,2008,Data\Image\24.jpg,Data\Video\24.mp4,HD Vietsub - Thuyết minh,Wilson Yip,Trung Quốc,1 h 46 m,Hành động,1,2,5,Data\Description\24.txt
+24,Diệp Vấn 2 - Ip Man 2,2010,Data\Image\25.jpg,Data\Video\25.mp4,HD Vietsub - Thuyết minh,Wilson Yip,Trung Quốc,1 h 48 m,Hành động,1,2,5,Data\Description\25.txt
+25,Diệp Vấn 3 - Ip Man 3,2015,Data\Image\26.jpg,Data\Video\26.mp4,HD Vietsub - Thuyết minh,Wilson Yip,Trung Quốc,1 h 45 m,Hành động,1,2,5,Data\Description\26.txt
+26,The Recon - The Recon,2022,Data\Image\27.jpg,Data\Video\27.mp4,HD Vietsub - Thuyết minh,Đang cập nhật,Hàn Quốc,1 h 41 m,Hành động/Tình cảm,1,2,3,Data\Description\27.txt
+27,Bỗng Dưng Trúng Số - 6/45,2022,Data\Image\28.jpg,Data\Video\28.mp4,HD Vietsub - Thuyết minh,Park Gyu-Tae,Hàn Quốc,1 h 53 m,Hài hước,1,2,5,Data\Description\28.txt
+28,Vệ Binh Giải Ngân Hà: Ngày Lễ Đặc Biệt - The Guardians Of The Galaxy: Holiday Special,2022,Data\Image\29.jpg,Data\Video\29.mp4,HD Vietsub - Thuyết minh,James Gun,Mỹ,45 m,Hành động/Hài hước/Viễn tưởng,1,2,4,Data\Description\29.txt
+29,Ngủ ngon Oppy - Good Night Oppy,2022,Data\Image\30.jpg,Data\Video\30.mp4,HD Vietsub - Thuyết minh,Ryan White,Mỹ,1 h 45 m,Kỳ ảo,1,2,4,Data\Description\30.txt
